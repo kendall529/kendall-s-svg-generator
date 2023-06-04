@@ -1,15 +1,26 @@
 {
   "name": "svg-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Make an SVG by supplying the terminal with specifications.",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendall529/kendall-s-svg-generator.git"
+  },
+  "author": "Kendall Smith",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendall529/kendall-s-svg-generator/issues"
+  },
+  "homepage": "https://github.com/kendall529/kendall-s-svg-generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.6",
+    "inquirer": "^8.0.0",
     "jest": "^29.5.0"
   }
 }
