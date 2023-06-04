@@ -23,7 +23,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Walkthrough Video Link
 
-https://drive.google.com/file/d/1fms9JMQYrNFn3FthX84dRPh04F_ai8LN/view
+https://drive.google.com/file/d/1Okl2yGfQcANMXDMcCk_25c50esr0fSmy/view
 
 ## Setup and Usage
 
